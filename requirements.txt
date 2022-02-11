@@ -1,0 +1,10 @@
+pynput
+pypiwin32
+requests
+Pillow
+pyautogui
+cryptography
+pyinstaller
+pyttsx3
+scapy
+netifaces
