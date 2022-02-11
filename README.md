@@ -1,2 +1,2 @@
 # Rouge
-A FUD python .exe payload creator(Modified Version of Jarbou3)
+A FUD python .exe payload creator(Modified & Stable Version of Jarbou3)
